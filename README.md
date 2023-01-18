@@ -1,8 +1,17 @@
-@philomathic
-:chart_with_upwards_trend: Data Analytics
-:crayon: Design
+## **Kiani**, _freelancer_
+
+### US 
 
 :nerd_face: Newbie
+
+:chart_with_upwards_trend: Data Analytics
+
+:crayon: Design
+
+
+
+
+
 
 
 <!---
