@@ -1,7 +1,8 @@
 @philomathic
-- Data Analytics
-- Excel | SQL | Python
-- Newbies Wanted, Mentor Needed
+:chart_with_upwards_trend: Data Analytics
+:crayon: Design
+
+:nerd_face: Newbie
 
 
 <!---
